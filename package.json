@@ -28,6 +28,7 @@
     },
     "homepage": "https://github.com/bushev/nodejs-license-file",
     "dependencies": {
+        "dayjs": "1.8.17",
         "json-stable-stringify": "1.0.1"
     }
 }

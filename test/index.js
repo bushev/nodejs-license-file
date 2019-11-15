@@ -30,7 +30,7 @@ const FIRST_NAME          = 'First Name';
 const LAST_NAME           = 'Last Name';
 const EMAIL               = 'some@email.com';
 const SOME_NUMBER         = 123;
-const EXPIRATION_DATE     = '2025/09/25';
+const EXPIRATION_DATE     = '2025-09-25';
 
 const template = [
     '====BEGIN LICENSE====',
